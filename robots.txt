@@ -1,0 +1,18 @@
+User-agent: *
+Sitemap: https://www.surf-life.blue/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /apple-app-site-association
+Disallow: /.well-known/apple-app-site-association
+Disallow: /.well-known/assetlinks.json
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /trackback/
+Disallow: /?author=*
+Disallow: */trackback
+Disallow: /tide_level/page/*
+Disallow: /tide_level
+Allow: /tide_level/
+Allow: /wp-content/
