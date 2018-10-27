@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+
+
+#customize-control-color-cat-radio-f .customize-control-title,
+#customize-control-color-cat-radio .customize-control-title,
+#customize-control-color-cat-radio-s .customize-control-title,
+#customize-control-radio-1 .customize-control-title,
+#customize-control-radio-2 .customize-control-title,
+#customize-control-radio-3 .customize-control-title{
+margin-bottom:6px;
+}
+
+
+#customize-theme-controls .customize-control-description{
+margin-top:-8px;
+font-size:12px;
+}
+
+
+.notice-success, div.updated{
+margin:10px 0% 0px 2px;
+}
+
+.post_title{
+float:left;
+padding: 0px 50px 0px 0px;
+}
+
+
+
+.text_admin1{
+font-size:80%;
+margin:0% 0% 0px 1%;
+}
+
+.img_,.img_val{display:none;}
+.img_1{display: block;}
+
+.admin-top-style{
+overflow:hidden;padding:10px 0;vertical-align: middle;}
+.admin-top-style img{
+	vertical-align:middle;padding:0px 0px;	}
+.admin-top-style input{ vertical-align:middle;}
+
+
+
+.post_title img{
+	vertical-align:middle;padding:0px 0px;	}
+.post_title input{ vertical-align:middle;}
+
+
+.hide { display: none; }
+.open { display: block; }
+.admin-title{font-weight:bold;font-size:14px;margin:10px 0px 0px 0px;}
+.img-choose img{width:auto;max-width:50%;height:62px;}
+#media11 img,#media10 img,#media9 img,#media8 img,#media7 img,#media6 img,#media5 img,#media4 img,#media3 img,#media2 img{
+width:auto;max-width:50%;height:92px;}
+.img-choose{overflow:hidden;clear:both;}
+.img-left{margin-right:20px;float:left;}
+#original_option{width:100%;}
+#original_options{margin:0% 3% 0px 0%;width:98%;}
+
+#original_option h3{box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);background-color:#FFF;padding:10px 10px;font-size:100%;width:99%;
+margin:20px 0px 8px 0px;
+
+}
+
+
+.original_area{padding:0% 0% 0px 1%;}
+p.submit{text-align:center;}
+.wp-core-ui .button-primary {padding:0 10%;}
+
+
+
+/*見出しデザインスタート*/
+
+ul#tab {
+zoom: 1;
+background: #f9f9f9;
+border-bottom: 3px solid #729abf;
+list-style: none;
+margin: 0 auto;
+padding: 0;
+height:34px;
+}
+
+ul#tab li {
+float: left;
+text-align: center;
+}
+ul#tab li:last-child {
+background: none;
+}
+ul#tab li a {
+display: block;
+width: 100px;
+padding: 8px 0;
+text-decoration: none;
+color: #222;
+}
+ul#tab li a:hover {
+background: #729abf;
+color: #fff;
+}
+ul#tab li.active,
+ul#tab li.active a,
+ul#tab li.active a:hover {
+background: #729abf;
+color: #fff;
+}
+#detail {
+clear: both;
+overflow: hidden;
+width: 650px;
+padding: 10px 50px 20px 50px;
+}
+.tabbox {
+display: none;
+}
+
+
+.post_title input{
+margin: 10px 0px;
+}

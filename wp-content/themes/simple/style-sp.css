@@ -1,0 +1,290 @@
+@charset "UTF-8";
+
+.header-title{
+display:none;
+}
+
+
+
+
+.icon-menu{
+position: absolute;
+top: 0px;
+right:0%;
+cursor: pointer;
+color:#FFF;
+font-size:32px;
+
+padding:14px 15px 14px 15px;
+
+
+background: rgba(6, 6, 6, 0.2) none repeat scroll center center;
+
+}
+
+.icon-cross{
+padding:20px 20px 19px 20px;
+cursor: pointer;
+right:0%;
+position:absolute;
+top: 0px;
+color:#FFF;
+font-size:22px}
+
+
+/*追加終了*/
+#header-area{
+min-height: 0px;
+min-height:60px;
+margin:0 auto;
+
+padding:0px 0px 0px 0px
+}
+
+
+
+.icon-top{
+right:15px}
+
+
+#site-footer-sp select{
+font-size:16px}
+
+#main-content{
+padding: 0}
+
+#main-content3 .list-img{
+width:14%}
+
+#main-content3 .list-content{
+width:82%}
+
+
+#site-footer-sp .cat-item a,
+#site-footer-sp .page_item a{
+border:none;
+background-color:#FFF;
+border-bottom:dotted 1px #CCC}
+
+#site-footer-sp{
+padding-top:30px;
+margin:0 auto;
+max-width:1100px;
+clear:both;
+background-color:#FFF}
+
+.footer-title-sp{
+cursor:pointer;
+position:relative;
+font-size:90%;
+font-weight: bold;
+padding:15px 10px 15px 10px;
+margin:0px 0px 0px 0;
+border-bottom:solid 1px #ccc;
+border-top:solid 1px #fff;
+color: #303030}
+
+#colophon-sp:first-child{
+border-top:solid 1px #ccc}
+
+#site-footer-sp .footer-title-sp-t{
+width:91%}
+
+.footer-title-sp-t:before{
+	margin-right:1%;
+
+/*
+content:'＞ '
+*/
+content: "\e91b";
+font-family: "icomoon",sans-serif
+}
+
+#site-footer-sp .icon-plus{
+	
+top: 50%;
+margin-top: -0.5em;
+position:absolute;
+right:5%;
+font-size:14px}
+
+#site-footer-sp .icon-minus{
+color:#729ABF;
+font-size:12px}
+	
+#site-footer-sp{
+display:block}
+
+#site-footer{
+display:none}
+
+.site-info{
+clear:both}
+
+/*ページナビ*/
+.pagination{display:none}
+.pages-sp{display:block}
+.pages-sp{margin:10px 0px 0px 0px;text-align:center;width:100%;padding:10px 0px 10px 0px}
+.pages-sp a{text-decoration:none;padding:5px 5% 5px 5%}
+.pages-link{color:#FFF;margin:0px 1% 0px 1%;background-color:#1f9fd6}
+.pages-sp a:hover{color:#000;margin:0px 1% 0px 1%;background-color:#1f9fd6}
+
+/*NEW スマホ*/
+#header-right-area{
+width:100%;
+display: block;
+margin:21px 0px 0px 0px;
+width:100%;
+vertical-align:middle;
+text-align:left}
+
+#header-right-area a{
+text-align:left;
+padding:10px 0px 10px 10px}
+
+.header-right-title{
+padding:0px 0px 0px 5px}
+
+.header-right-title-sub{
+padding:0px 0 10px 16px}
+
+#header-right-area .right-sub{
+display: block;
+vertical-align: middle;
+margin:0;
+padding:0}
+
+#header-right-area .right-sub .categories{
+vertical-align:middle;
+list-style:none;
+text-align:left;
+display: block;
+margin:0;
+padding:0;
+border-right:#FFF 1px solid;
+padding:0px 0px 0px 0px;
+/* IE6,7 */
+*float: none}
+
+#header-right-area .categories ul a{
+padding:10px 2%;
+line-height:1.6;
+width:100%;
+font-size:105%}
+
+
+
+
+
+
+#header-right-area [class*="accordion"] .has-sub a{
+width:100%}
+
+#header-right-area [class*="accordion"] li{
+position:relative
+}
+
+#header-right-area .accordion .children a{
+width:100%
+}
+
+
+#header-rights{
+margin:-16px 0px 0px 0px;
+width:100%;
+display:none}
+
+ul[class*="accordion"]{
+width:100%;
+display:none;
+position: relative}
+
+.categories{
+cursor:pointer;
+overflow:hidden;
+clear:both;
+width:100%;
+position:relative;
+border-right:none;
+text-align:left}
+
+
+
+
+ul[class*="accordion"] span{
+position:absolute;
+top:0;
+right:0;
+
+width:20%;
+cursor: pointer;
+display:block;
+padding:0px 0;
+margin:0px 0px 0px 0px;
+background-position:center center;
+height:18px;
+clear:both;
+}
+
+.accordion7 span,.accordion6 span,.accordion5 span,.accordion4 span,.accordion3 span,.accordion span{
+text-align:center;
+
+}
+
+.icon-plus{
+	
+
+
+cursor: pointer;
+display:block;
+margin-top:0px;
+color:#FFF;
+font-size:20px}
+
+
+ul[class*="accordion"] .icon-plus.icon-minus{
+background: rgba(6, 6, 6, 0.2) none repeat scroll center center;
+
+}
+
+
+.categories7 .icon-plus,.categories6 .icon-plus,.categories5 .icon-plus,.categories4 .icon-plus,.categories3 .icon-plus,.categories2 .icon-plus{
+position:absolute;
+right:9.8%;
+top:-1.5px;
+text-align: right}
+	
+.site-logo{
+width: 100%;
+text-align:center;
+padding:2px 0px 0px 0px;
+margin:0px 0px 0px -5px;
+height:53px;
+line-height:53px;
+
+}
+
+.site-logo-t{
+
+width: 100%;
+text-align:center;
+padding:2px 0px 0px 0px;
+margin:0px 0px 0px -5px;
+height:53px;
+line-height:53px;
+}
+
+#main-content2-sidebar,#main-content1-sidebar{
+display:none}
+
+#main-content1-area{
+clear:both;
+width:100%;
+padding: 0;
+margin:0}
+
+#main-content1,#main-content2,#main-content3{
+margin:0 auto 0 auto;
+padding:15px 4%;
+clear:both;
+width:92%}
